@@ -1,3 +1,3 @@
-pip install fastapi --proxy http://A108706390:Learnhard2023@10.24.19.83:8080
+pip install fastapi --proxy http://username:password@ip_address:port
 
 uvicorn main:app --reload
